@@ -13,4 +13,4 @@ Lista de actividades del curso
  
  + :paperclip: Clase 2: 20.01.2020
  + Primera tarea del curso
- 
+ + La fecha de entrega será el día 28.01 de Enero a las 23 horas
