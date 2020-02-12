@@ -11,3 +11,5 @@ En cada prueba se establece un valor de alfa de 0.05. La prueba se puede observa
 
 [Apuntes]: Apuntes.png
 
+
+
