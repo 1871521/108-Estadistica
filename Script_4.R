@@ -16,5 +16,7 @@ summary(CR)
 # "mu" debe ser igual a la variable terica
 # el valor de alfa establecido es 0.05
 
-t.test(CR$diametro, mu=13)
+t.test(CR$diametro, mu=12.7)
 
+
+t.test(CR$altura, mu=19)
